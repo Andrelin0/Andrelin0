@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Andrelin0
 - 👀 I am interested in constantly learning and having new experiences in the programming world
-- 🌱 I’m currently learning C, Java, Python, NodeJS, MySQL, Express, HTML, CSS, javascript
+- 🌱 I’m currently learning C, Java, Python, NodeJS, MySQL, Express, HTML, CSS, javascript, data analysis
 - 📫 How to reach me andrelinodaniel16@gmail.com/ +55(92)99372-6304
 
 <!---
